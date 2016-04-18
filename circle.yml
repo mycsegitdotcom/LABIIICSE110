@@ -1,7 +1,7 @@
 #
 # Build configuration for Circle CI
 #
-
+g
 general:
     artifacts:
         - /home/ubuntu/Unit_test/app/build/outputs/apk/
